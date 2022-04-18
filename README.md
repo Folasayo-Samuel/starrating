@@ -1,1 +1,1 @@
-# How to create a star rating component in ReactJS# starrating
+# How to create a star rating component in ReactJS
